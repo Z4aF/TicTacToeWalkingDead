@@ -17,6 +17,28 @@ Rick dies and that means game over.
 Download the repository, extract, and open executable file. No need to install
 
 ## Technical Dependencies 
+
+### Screen Resolution: 
+1920x1080 pixels with 16:9 aspect ratio or smaller
+### Requirements: 
+The game is not demanding and it should run smoothly on
+most computers.
+
 The game is built in Python or Ren'py which is a visual novel game engine.
 Ren'py can be downloaded and installed from its official website 
 https://www.renpy.org/
+
+Image and audio files types are ".png", ".wav", and ".mp3" for the game's 
+3x3 grid board, player marks or symbols, background music, and sound
+effects. ".webm" is also used for the game's video playback during certain
+sequences.
+
+## Compatibility Information
+Windows 10
+
+### Android
+Download and install Joiplay for android 
+
+https://joiplay.net/
+
+Download Ren'Py plugin
