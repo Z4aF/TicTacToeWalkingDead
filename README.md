@@ -15,6 +15,8 @@ Rick dies and that means game over.
 
 ## Setup Instructions
 Download the repository, extract, and open executable file. No need to install
+or
+Download the zip file only
 
 ## Technical Dependencies 
 
