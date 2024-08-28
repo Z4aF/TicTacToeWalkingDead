@@ -12,3 +12,11 @@ The story mode follows the story of the walking dead's protagonist
 Rick Grimes. Everytime Rick faces off against a walker or an enemy, a game
 of tic-tac-toe appears. If you win, the story progresses but if you lose, 
 Rick dies and that means game over.
+
+## Setup Instructions
+Download the repository, extract, and open executable file. No need to install
+
+## Technical Dependencies 
+The game is built in Python or Ren'py which is a visual novel game engine.
+Ren'py can be downloaded and installed from its official website 
+https://www.renpy.org/
