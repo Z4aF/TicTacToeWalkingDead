@@ -47,6 +47,7 @@ Download Ren'Py plugin
 
 ## Developer notes
 The game repository is incomplete due to GitHub's max repository size at 25mb or 100mb
+
 Instead,
 If you wish to play the game, I will provide a link below.
 
