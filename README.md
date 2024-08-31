@@ -14,7 +14,7 @@ of tic-tac-toe appears. If you win, the story progresses but if you lose,
 Rick dies and that means game over.
 
 ## Setup Instructions
-Download the repository, extract, and open executable file. No need to install
+(Download the repository, extract, and open executable file. No need to install)
 or
 Download the zip file only
 
