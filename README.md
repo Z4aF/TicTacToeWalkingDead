@@ -51,4 +51,4 @@ The game repository is incomplete due to GitHub's max repository size at 25mb or
 Instead,
 If you wish to play the game, I will provide a link below.
 
-https://nuph-my.sharepoint.com/:f:/r/personal/zafrapa_students_nu-fairview_edu_ph/Documents/TicTacToeWalkingDead?csf=1&web=1&e=lwXnZt
+https://nuph-my.sharepoint.com/:f:/g/personal/zafrapa_students_nu-fairview_edu_ph/Eos1pr-Z4rtJmMpi_sRja6IBtYzy0wj02J7mbeSjxgQtpg?e=ozvtVv
